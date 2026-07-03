@@ -1,0 +1,807 @@
+Ñòðóêòóðà ïàïîê
+Ñåðèéíûé íîìåð òîìà: 0000018B 72C8:2B86
+C:\USERS\VIVOBOOK\SPARK-RESTAURANT-WEATHER-ETL\DATA\INPUT\WEATHER
++---2016
+¦   +---month=10 1-4
+¦   ¦   ¦   .DS_Store
+¦   ¦   ¦   
+¦   ¦   +---day=01
+¦   ¦   ¦       .part-00140-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00141-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00229-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00140-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00141-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00229-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=02
+¦   ¦   ¦       .part-00002-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00003-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00228-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00002-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00003-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00228-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=03
+¦   ¦   ¦       .part-00097-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00098-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00225-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00097-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00098-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00225-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   L---day=04
+¦   ¦           .part-00070-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00071-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00213-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           part-00070-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00071-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00213-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           
+¦   +---month=10 13-16
+¦   ¦   ¦   .DS_Store
+¦   ¦   ¦   
+¦   ¦   +---day=13
+¦   ¦   ¦       .part-00111-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00112-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00219-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00111-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00112-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00219-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=14
+¦   ¦   ¦       .part-00146-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00147-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00197-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00146-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00147-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00197-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=15
+¦   ¦   ¦       .part-00004-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00005-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00203-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00004-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00005-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00203-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   L---day=16
+¦   ¦           .part-00057-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00058-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00199-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           part-00057-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00058-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00199-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           
+¦   +---month=10 17-20
+¦   ¦   ¦   .DS_Store
+¦   ¦   ¦   
+¦   ¦   +---day=17
+¦   ¦   ¦       .part-00105-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00106-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00207-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00105-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00106-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00207-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=18
+¦   ¦   ¦       .part-00015-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00016-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00212-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00015-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00016-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00212-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=19
+¦   ¦   ¦       .part-00144-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00145-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00211-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00144-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00145-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00211-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   L---day=20
+¦   ¦           .part-00134-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00135-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00220-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           part-00134-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00135-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00220-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           
+¦   +---month=10 21-24
+¦   ¦   ¦   .DS_Store
+¦   ¦   ¦   
+¦   ¦   +---day=21
+¦   ¦   ¦       .part-00175-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00176-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00226-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00175-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00176-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00226-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=22
+¦   ¦   ¦       .part-00041-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00042-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00223-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00041-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00042-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00223-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=23
+¦   ¦   ¦       .part-00066-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00067-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00226-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00066-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00067-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00226-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   L---day=24
+¦   ¦           .part-00125-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00126-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00223-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           part-00125-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00126-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00223-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           
+¦   +---month=10 25-28
+¦   ¦   ¦   .DS_Store
+¦   ¦   ¦   
+¦   ¦   +---day=25
+¦   ¦   ¦       .part-00138-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00139-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00213-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00138-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00139-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00213-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=26
+¦   ¦   ¦       .part-00008-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00009-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00217-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00008-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00009-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00217-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=27
+¦   ¦   ¦       .part-00055-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00056-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00217-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00055-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00056-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00217-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   L---day=28
+¦   ¦           .part-00109-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00110-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00227-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           part-00109-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00110-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00227-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           
+¦   +---month=10 29-31
+¦   ¦   ¦   .DS_Store
+¦   ¦   ¦   
+¦   ¦   +---day=29
+¦   ¦   ¦       .part-00017-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00018-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00229-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00017-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00018-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00229-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=30
+¦   ¦   ¦       .part-00076-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00077-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00227-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00076-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00077-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00227-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   L---day=31
+¦   ¦           .part-00136-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00137-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00218-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           part-00136-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00137-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00218-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           
+¦   +---month=10 5-8
+¦   ¦   ¦   .DS_Store
+¦   ¦   ¦   
+¦   ¦   +---day=05
+¦   ¦   ¦       .part-00021-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00022-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00205-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00021-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00022-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00205-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=06
+¦   ¦   ¦       .part-00163-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00164-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00210-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00163-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00164-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00210-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   +---day=07
+¦   ¦   ¦       .part-00103-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00104-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       .part-00219-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦   ¦       part-00103-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00104-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       part-00219-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦   ¦       
+¦   ¦   L---day=08
+¦   ¦           .part-00031-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00032-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           .part-00207-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦   ¦           part-00031-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00032-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           part-00207-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦   ¦           
+¦   L---month=10 9-12
+¦       ¦   .DS_Store
+¦       ¦   
+¦       +---day=09
+¦       ¦       .part-00161-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       .part-00162-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       .part-00225-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       part-00161-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       part-00162-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       part-00225-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       
+¦       +---day=10
+¦       ¦       .part-00169-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       .part-00170-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       .part-00224-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       part-00169-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       part-00170-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       part-00224-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       
+¦       +---day=11
+¦       ¦       .part-00035-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       .part-00036-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       .part-00228-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦       ¦       part-00035-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       part-00036-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       part-00228-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦       ¦       
+¦       L---day=12
+¦               .part-00074-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦               .part-00075-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦               .part-00224-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+¦               part-00074-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦               part-00075-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦               part-00224-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+¦               
+L---2017
+    +---month=08 1-4
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=01
+    ¦   ¦       .part-00037-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00038-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00215-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00037-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00038-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00215-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=02
+    ¦   ¦       .part-00010-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00011-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00206-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00010-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00011-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00206-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=03
+    ¦   ¦       .part-00085-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00086-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00204-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00085-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00086-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00204-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=04
+    ¦           .part-00127-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00128-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00195-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00127-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00128-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00195-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=08 13-16
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=13
+    ¦   ¦       .part-00059-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00060-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00199-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00059-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00060-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00199-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=14
+    ¦   ¦       .part-00117-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00118-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00200-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00117-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00118-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00200-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=15
+    ¦   ¦       .part-00159-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00160-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00216-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00159-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00160-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00216-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=16
+    ¦           .part-00029-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00030-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00201-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00029-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00030-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00201-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=08 17-20
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=17
+    ¦   ¦       .part-00045-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00046-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00204-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00045-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00046-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00204-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=18
+    ¦   ¦       .part-00078-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00079-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00209-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00078-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00079-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00209-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=19
+    ¦   ¦       .part-00023-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00024-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00201-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00023-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00024-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00201-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=20
+    ¦           .part-00099-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00100-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00220-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00099-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00100-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00220-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=08 21-24
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=21
+    ¦   ¦       .part-00025-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00026-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00222-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00025-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00026-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00222-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=22
+    ¦   ¦       .part-00087-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00177-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00221-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00087-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00177-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00221-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=23
+    ¦   ¦       .part-00131-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00183-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00202-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00131-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00183-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00202-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=24
+    ¦           .part-00065-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00180-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00208-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00065-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00180-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00208-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=08 25-28
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=25
+    ¦   ¦       .part-00107-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00108-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00208-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00107-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00108-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00208-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=26
+    ¦   ¦       .part-00154-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00179-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00218-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00154-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00179-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00218-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=27
+    ¦   ¦       .part-00012-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00181-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00221-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00012-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00181-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00221-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=28
+    ¦           .part-00080-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00178-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00222-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00080-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00178-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00222-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=08 29-31
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=29
+    ¦   ¦       .part-00088-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00182-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00210-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00088-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00182-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00210-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=30
+    ¦   ¦       .part-00027-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00028-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00197-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00027-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00028-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00197-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=31
+    ¦           .part-00157-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00158-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00188-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00157-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00158-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00188-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=08 5-8
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=05
+    ¦   ¦       .part-00167-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00168-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00193-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00167-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00168-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00193-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=06
+    ¦   ¦       .part-00043-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00044-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00196-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00043-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00044-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00196-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=07
+    ¦   ¦       .part-00051-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00052-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00195-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00051-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00052-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00195-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=08
+    ¦           .part-00093-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00094-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00205-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00093-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00094-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00205-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=08 9-12
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=09
+    ¦   ¦       .part-00148-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00149-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00214-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00148-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00149-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00214-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=10
+    ¦   ¦       .part-00019-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00020-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00216-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00019-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00020-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00216-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=11
+    ¦   ¦       .part-00063-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00064-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00214-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00063-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00064-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00214-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=12
+    ¦           .part-00091-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00092-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00193-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00091-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00092-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00193-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=09 1-5
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=01
+    ¦   ¦       .part-00155-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00156-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00191-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00155-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00156-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00191-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=02
+    ¦   ¦       .part-00123-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00124-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00203-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00123-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00124-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00203-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=03
+    ¦   ¦       .part-00083-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00084-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00212-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00083-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00084-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00212-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=04
+    ¦   ¦       .part-00039-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00040-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00188-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00039-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00040-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00188-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=05
+    ¦           .part-00165-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00166-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00189-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00165-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00166-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00189-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=09 11-15
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=11
+    ¦   ¦       .part-00081-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00082-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00194-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00081-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00082-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00194-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=12
+    ¦   ¦       .part-00033-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00034-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00211-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00033-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00034-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00211-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=13
+    ¦   ¦       .part-00173-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00174-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00200-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00173-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00174-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00200-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=14
+    ¦   ¦       .part-00121-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00122-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00194-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00121-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00122-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00194-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=15
+    ¦           .part-00047-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00048-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00191-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00047-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00048-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00191-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=09 16-20
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=16
+    ¦   ¦       .part-00006-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00007-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00198-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00006-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00007-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00198-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=17
+    ¦   ¦       .part-00119-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00120-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00206-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00119-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00120-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00206-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=18
+    ¦   ¦       .part-00068-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00069-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00192-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00068-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00069-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00192-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=19
+    ¦   ¦       .part-00113-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00114-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00185-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00113-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00114-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00185-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=20
+    ¦           .part-00115-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00116-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00186-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00115-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00116-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00186-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=09 21-25
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=21
+    ¦   ¦       .part-00152-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00153-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00184-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00152-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00153-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00184-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=22
+    ¦   ¦       .part-00061-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00062-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00184-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00061-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00062-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00184-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=23
+    ¦   ¦       .part-00013-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00014-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00185-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00013-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00014-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00185-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=24
+    ¦   ¦       .part-00171-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00172-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00187-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00171-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00172-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00187-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=25
+    ¦           .part-00132-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00133-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00187-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00132-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00133-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00187-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    +---month=09 26-30
+    ¦   ¦   .DS_Store
+    ¦   ¦   
+    ¦   +---day=26
+    ¦   ¦       .part-00053-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00054-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00190-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00053-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00054-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00190-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=27
+    ¦   ¦       .part-00000-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00001-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00192-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00000-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00001-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00192-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=28
+    ¦   ¦       .part-00129-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00130-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00190-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00129-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00130-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00190-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   +---day=29
+    ¦   ¦       .part-00095-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00096-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       .part-00189-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦   ¦       part-00095-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00096-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       part-00189-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦   ¦       
+    ¦   L---day=30
+    ¦           .part-00072-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00073-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           .part-00186-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+    ¦           part-00072-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00073-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           part-00186-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+    ¦           
+    L---month=09 6-10
+        ¦   .DS_Store
+        ¦   
+        +---day=06
+        ¦       .part-00089-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       .part-00090-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       .part-00198-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       part-00089-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       part-00090-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       part-00198-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       
+        +---day=07
+        ¦       .part-00049-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       .part-00050-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       .part-00215-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       part-00049-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       part-00050-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       part-00215-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       
+        +---day=08
+        ¦       .part-00101-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       .part-00102-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       .part-00209-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       part-00101-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       part-00102-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       part-00209-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       
+        +---day=09
+        ¦       .part-00150-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       .part-00151-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       .part-00196-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+        ¦       part-00150-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       part-00151-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       part-00196-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+        ¦       
+        L---day=10
+                .part-00142-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+                .part-00143-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+                .part-00202-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet.crc
+                part-00142-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+                part-00143-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+                part-00202-44bd3411-fbe4-4e16-b667-7ec0fc3ad489.c000.snappy.parquet
+                
